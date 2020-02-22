@@ -1,2 +1,3 @@
 # hello-word
-i want biye
+我想毕业
+
